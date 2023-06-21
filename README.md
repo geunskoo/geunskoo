@@ -1,5 +1,4 @@
 ### :octocat: My Github Stats
-<br />
 <table id="stats">
   <tr>
   <td valign="top" width="50%"><img src="https://github-readme-stats.vercel.app/api?username=geunskoo&theme=vue&show_icons=true&hide=stars" align="left" style="width: 120%" /></td>
