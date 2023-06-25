@@ -15,6 +15,7 @@
 
 ### :octocat: Experience
 - 🎓 Pusan University, Mathematices, Computer Science (2016.03 ~ )
+- 🏃‍♂️ Pusanb University, 산업수학센터 학부 연구생 (2022.06.01 ~ 2022.08.31)
 - 🏃‍♂️ Shinsegae-inc, spharos academy 2nd class (2023.02.13 ~ 2023.06.22)
 
 <br/>
