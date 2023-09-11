@@ -7,7 +7,7 @@
 <br/>
 
 ### :octocat: Who Am I
- - 🚀 I'm currently learning `spring boot`, `java`, `ddd`, `hexagonal architecture`
+ - 🚀 I'm currently learning `spring boot`, `java`, `ddd`, `hexagonal architecture`, `angular`
  - 🏫 I majored in Mathematics & Computer Science
  - 🚝 My hometown is Busan, in Korea
 
